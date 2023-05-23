@@ -16,7 +16,7 @@ El proyecto sigue una estructura simple de una sola página (single-page applica
 ## Estructura del Proyecto
 El proyecto tiene la siguiente estructura de archivos:
 
-index.html: Página de inicio del sitio web.
+```index.html: Página de inicio del sitio web.
 nosotros.html: Página de información sobre la tienda.
 tienda.html: Página que muestra la lista de productos disponibles.
 blog.html: Página que muestra las publicaciones del blog.
@@ -26,7 +26,7 @@ css/: Carpeta que contiene los archivos CSS.
 bootstrap.min.css: Archivo CSS de Bootstrap.
 app.css: Archivo CSS personalizado para el proyecto.
 js/: Carpeta que contiene los archivos JavaScript.
-bootstrap.bundle.min.js: Archivo JavaScript de Bootstrap.
+bootstrap.bundle.min.js: Archivo JavaScript de Bootstrap.```
 # Funcionalidad
 El proyecto HTML incluye las siguientes funcionalidades:
 
