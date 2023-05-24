@@ -45,7 +45,7 @@ h3{
 .btn-success{
     background-color: var(--bs-green)!important
 }
-.bg-primary{
+.bg-primary,.btn-primary{
     background-color:var(--bs-blue)!important
 }
 .hero{
@@ -86,4 +86,11 @@ h3{
 } esto hace lo mismo que la linea de abajo pero es la forma moderna*/
 .galeria li:not(:last-of-type){
     margin-bottom:1rem;
+}
+
+/* modificacion todo el formulario para no recargar el html */
+
+.form-control{
+    padding: 1rem;
+    font-size: 1.6rem;
 }
