@@ -27,7 +27,7 @@ bootstrap.min.css: Archivo CSS de Bootstrap.
 app.css: Archivo CSS personalizado para el proyecto.
 js/: Carpeta que contiene los archivos JavaScript.
 bootstrap.bundle.min.js: Archivo JavaScript de Bootstrap.```
-# Funcionalidad
+## Funcionalidad
 El proyecto HTML incluye las siguientes funcionalidades:
 
 Navegación: Permite a los usuarios navegar entre las diferentes secciones del sitio web utilizando la barra de navegación en la parte superior.
